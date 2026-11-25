@@ -2,7 +2,7 @@ Hi, I'm Jann Ysrael Camano 👋
 
 Computer Engineer (2026) focused on cybersecurity and networks. I build defensive security tools in Python, including ML-powered detectors, a WAF, and a local-LLM code scanner, backed by hands-on network support experience.
 
-📍 Pasig City, Philippines · 🎓 B.S. Computer Engineering, Catanduanes State University · 📚 Studying for CompTIA Network+
+📍 Pasig City, Philippines · 🎓 B.S. Computer Engineering, Catanduanes State University 
 
 🛠️ Featured Projects
 
